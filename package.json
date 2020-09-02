@@ -1,0 +1,23 @@
+{
+  "name": "db09_readmegenearator",
+  "version": "1.0.0",
+  "description": "A simple command line application that generates a professional Readme file for your project.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbv92/DB09_ReadmeGenearator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbv92/DB09_ReadmeGenearator/issues"
+  },
+  "homepage": "https://github.com/danielbv92/DB09_ReadmeGenearator#readme"
+}
